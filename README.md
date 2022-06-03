@@ -18,7 +18,7 @@
 
 - 🌱 I’m currently learning **React, Redux, MongoDB, Express**
 
-- 👨‍💻 All of my projects are available at <a href="https://vaishalibhoyar.netlify.app" target="_blank">Link</a>
+- 👨‍💻 All of my projects are available at <a href="https://vaishali-bhoyar.netlify.app" target="_blank">Link</a>
 
 - 💬 Ask me about **MERN stack**
 
