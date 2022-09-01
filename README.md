@@ -24,7 +24,7 @@
 
 - 📫 How to reach me **vaishubhoyar004@gmail.com**
 
-- 📄 Know about my work in my <a href="https://drive.google.com/file/d/1pZQF8WLrOATXggOpIr-awg4Er6bvV37C/view?usp=sharing" target="_blank">RESUME</a>
+- 📄 Know about my work in my <a href="https://drive.google.com/file/d/1TJCj9LS1xfUg3OC0XMZk65VMqzMnlvJ-/view" target="_blank">RESUME</a>
 
 - ⚡ Fun fact - **I am creative and I love dancing, art, vibing with music, animals and nature!**
 
