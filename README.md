@@ -3,38 +3,50 @@
 <h1 align="center">Hi 👋, I'm Vaishali Bhoyar</h1>
 <h3 align="center">A passionate Web Developer from India</h3>
 
-<p> I am a web developer and an electronics engineer too! I completed my B.Tech from College of Engineering, Pune and currently I am into web development at Masai School. I always wanted to learn about the tech stack behind the web tech since my engineering days, and as soon as I completed my engineering, I pushed myself into MERN stack development which is an amazing technology used worldwide nowadays, creating an efficient environment for developers and making faster and easier user experience. </p>
+<h6 align="center">Full Stack Developer | MERN Stack | Microservices | Cloud & DevOps Enthusiast</h6>
+
+<p> I am a Full Stack Developer with 2 years of experience, passionate about building scalable, high-performance applications. I specialize in the MERN stack, developing microservices-based architectures, and deploying applications on Cloud and Kubernetes. I love solving problems and optimizing applications for better performance and security. </p>
 <p>I must tell you, as a web developer, the more I use a piece of code, the more confident and familiar I become with it which in turn speeds up my development time!</p>
 <br>
 <br>
 
+<img src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" width="400" height="380" align="right"/>
 
+- 🎓 B.Tech Graduate from College of Engineering, Pune
 
+- 🏗️ Worked on production-ready microservices-based applications
 
-<img src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" width="300" height="280" align="right" />
+- 🌐 Tech Stack: React.js, Node.js, Express.js, GraphQL, MySQL, MongoDB, Knex.js, Java, SpringBoot, Hibernate
 
+- 🏗️ Cloud & DevOps: Docker, Kubernetes, Google Cloud (GKE, Cloud SQL), CI/CD Pipelines 
 
-- 🔭 I’m currently working on **MERN Stack**
+- 🛠️ Currently Exploring: Scalable backend systems, Cloud features, and advanced CI/CD practices
 
-- 🌱 I’m currently learning **React, Redux, MongoDB, Express**
+- 💡 Passionate about: Problem-solving, designing APIs, and optimizing cloud-based applications
 
 - 👨‍💻 All of my projects are available at <a href="https://vaishali-bhoyar.netlify.app" target="_blank">Link</a>
 
-- 💬 Ask me about **MERN stack**
+<br>
+📫 How to Reach Me
 
-- 📫 How to reach me **vaishubhoyar004@gmail.com**
+- 📩 Email: vaishubhoyar004@gmail.com
+
+- 🔗 Portfolio: [Coming Soon]
+
+- 💼 LinkedIn: Vaishali Bhoyar
+
+- 📜 GitHub: V-bhoy
 
 - 📄 Know about my work in my <a href="https://drive.google.com/file/d/1TJCj9LS1xfUg3OC0XMZk65VMqzMnlvJ-/view" target="_blank">RESUME</a>
 
-- ⚡ Fun fact - **I am creative and I love dancing, art, vibing with music, animals and nature!**
-
 <br>
+⚡ Fun Facts
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/vaishali-b-b65509200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vaishali-b-b65509200" height="30" width="40" /></a>
-<a href="https://instagram.com/rach_1303_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rach_1303_" height="30" width="40" /></a>
-</p>
+- 🎨 I enjoy art, music, and dance in my free time!
+
+- 🐾 Animal lover & nature enthusiast
+
+- 🧠 Always eager to learn new technologies & improve problem-solving skills
 
 <br>
 
@@ -43,9 +55,11 @@
 
 <br><br>
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=v-bhoy&show_icons=true&locale=en&layout=compact" alt="v-bhoy" width="500"/></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=v-bhoy&show_icons=true&locale=en&layout=compact" alt="v-bhoy" width="500"/></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=v-bhoy&show_icons=true&locale=en" alt="v-bhoy" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=v-bhoy&" alt="v-bhoy" /></p>
+<br>
+🚀 Let's build something amazing together!
 
