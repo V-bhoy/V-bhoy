@@ -1,11 +1,11 @@
 <br>
 <h1 align="center">Hi 👋, I'm Vaishali Bhoyar</h1>
-<h3 align="center">A passionate Web Developer from India</h3>
+<h3 align="center">A passionate Software Engineer from India</h3>
 
-<h6 align="center">Full Stack Developer | MERN Stack | Microservices | Cloud & DevOps Enthusiast</h6>
+<h6 align="center">Java Full Stack Developer | MERN Stack | Microservices </h6>
 
-<p> I am a Full Stack Developer with 2 years of experience, passionate about building scalable, high-performance applications. I specialize in the MERN stack, developing microservices-based architectures, and deploying applications on Cloud and Kubernetes. I love solving problems and optimizing applications for better performance and security. </p>
-<p>I must tell you, as a web developer, the more I use a piece of code, the more confident and familiar I become with it which in turn speeds up my development time!</p>
+<p> I am a Software Engineer with 2+ years of experience, passionate about building scalable, high-performance applications. I specialize in the MERN stack and Java frameworks, developing microservices-based architectures, and deploying applications on Cloud and Kubernetes. I love solving problems and optimizing applications for better performance and security. </p>
+<p>I must tell you, as a software engineer, the more I use a piece of code, the more confident and familiar I become with it which in turn speeds up my development time!</p>
 <br>
 <br>
 
@@ -15,7 +15,7 @@
 
 - 🏗️ Worked on production-ready microservices-based applications
 
-- 🌐 Tech Stack: React.js, Node.js, Express.js, GraphQL, MySQL, MongoDB, Knex.js, Java, SpringBoot, Hibernate
+- 🌐 Tech Stack: React.js, Node.js, Express.js, GraphQL, MySQL, MongoDB, Knex.js, Java, Spring, SpringBoot, Hibernate
 
 - 🏗️ Cloud & DevOps: Docker, Kubernetes, Google Cloud (GKE, Cloud SQL), CI/CD Pipelines 
 
@@ -30,13 +30,13 @@
 
 - 📩 Email: vaishubhoyar004@gmail.com
 
-- 🔗 Portfolio: [Coming Soon]
+- 🔗 Portfolio: <a href="https://vaishali-bhoyar.netlify.app" target="_blank">Link</a>
 
 - 💼 LinkedIn: Vaishali Bhoyar
 
 - 📜 GitHub: V-bhoy
 
-- 📄 Know about my work in my <a href="https://drive.google.com/file/d/1TJCj9LS1xfUg3OC0XMZk65VMqzMnlvJ-/view" target="_blank">RESUME</a>
+- 📄 Know about my work in my <a href="https://drive.google.com/file/d/1uDhQCmXoZ4RTgIr-lyLfT4VUFCheCnpL/view" target="_blank">RESUME</a>
 
 <br>
 ⚡ Fun Facts
